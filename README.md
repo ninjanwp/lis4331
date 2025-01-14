@@ -1,1 +1,1 @@
-# LIS4331 Mobile Applications Development
+# LIS4331 Advanced Mobile Applications Development
