@@ -7,8 +7,12 @@
 *Course Work Links:*
 
 1. [A1 README.md](a1/README.md "My A1 README.md file")
-    - Install something
-    - Install something
+    - Screenshot of running JDK java Hello
+    - Screenshot of running Android Studio My First App
+    - Screenshot of running Android Studio Contacts App
+    - Forward-engineered and linked .sql file lis3781_a1_solutions.sql
+    - git commands and their descriptions
+    - Linked lis3781_a1_solutions.sql with populated fields
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
     - TBD
