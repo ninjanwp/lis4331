@@ -11,9 +11,7 @@
 - Screenshot of running JDK java Hello
 - Screenshot of running Android Studio My First App
 - Screenshot of running Android Studio Contacts App
-- Forward-engineered and linked .sql file lis3781_a1_solutions.sql
 - git commands and their descriptions
-- Linked lis3781_a1_solutions.sql with populated fields
 
 #### Git commands w/short descriptions:
 
@@ -33,13 +31,9 @@
 
 #### Assignment Screenshots:
 
-_Screenshot of JDK running_:
-
-![Screenshot of JDK running](img/JavaHello.png)
-
-_Screenshot of My First App running_:
-
-![Screenshot of My First App running](img/MyFirstProject.png)
+| Screenshot of JDK running | Screenshot of My First App running |
+| :-----------------------: | :--------------------------------: |
+| ![Screenshot of JDK running](img/JavaHello.png) | ![Screenshot of My First App running](img/MyFirstProject.png) |
 
 _Screenshot of Contacts App running_:
 
