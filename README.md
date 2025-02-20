@@ -20,4 +20,8 @@
     - Complete skillsets that demonstrate Java comprehension
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
-    - TBD
+    - Develop a currency converter app
+    - Implement a splash screen
+    - Include toast notifications for user interactions
+    - Ensure proper UI for user input and converted currency display
+    - Demonstrate skillsets 4, 5, and 6
