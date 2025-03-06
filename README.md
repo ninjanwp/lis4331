@@ -25,3 +25,10 @@
     - Include toast notifications for user interactions
     - Ensure proper UI for user input and converted currency display
     - Demonstrate skillsets 4, 5, and 6
+
+4. [P1 README.md](p1/README.md "My P1 README.md file")
+    - Develop a music player app
+    - Implement a splash screen
+    - Include images for album art
+    - Ensure proper UI for user input and allow playback
+    - Demonstrate skillsets 7, 8, and 9
