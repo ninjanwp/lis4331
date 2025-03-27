@@ -32,3 +32,11 @@
     - Include images for album art
     - Ensure proper UI for user input and allow playback
     - Demonstrate skillsets 7, 8, and 9
+
+5. [A4 README.md](a4/README.md "My A4 README.md file")
+    - Include a splash screen with an image, app title, and intro text.
+    - Display inputs for mortgage interest calculation.
+    - Ensure images and buttons are vertically and horizontally aligned.
+    - Implement background color(s) or a theme.
+    - Create and display a launcher icon image.
+    - Ensure the app is **scrollable** both **horizontally and vertically**.
