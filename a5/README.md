@@ -1,8 +1,8 @@
-# LIS4331 - Assignment 4
+# LIS4331 - Assignment 5
 
 ## Nicholas Pfeffer
 
-### Assignment 4 Requirements:
+### Assignment 5 Requirements:
 
 - Create an RSS feed.
 - Display Feed items on main page of Android app.
