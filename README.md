@@ -40,3 +40,11 @@
     - Implement background color(s) or a theme.
     - Create and display a launcher icon image.
     - Ensure the app is **scrollable** both **horizontally and vertically**.
+
+6. [A5 README.md](a5/README.md "My A5 README.md file")
+    - Create an RSS feed.
+    - Display feed items on the main page of the Android app.
+    - Navigate to the item detail page on item click.
+    - Implement background color(s) and/or a theme.
+    - Create and display a launcher icon image.
+    - Ensure the app is **scrollable** both **horizontally and vertically**.
